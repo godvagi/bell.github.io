@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-image: url("bg6.jpg");
+	background-attachment:fixed;
+	
+}
+h1{
+	 text-align: center;
+	 text-shadow: 0 0 3px #FF0000, 0 0 15px #3333CC;
+	 font-size:92px
+	 
+	 
+}
+h2{	
+	background-color: #FFF;
+	opacity: 0.75;
+    filter: alpha(opacity=75);
+    text-align: center;
+	text-shadow: 0 0 3px #FF0000, 0 0 15px #3333CC;
+	margin-top:3%;
+    font-size:60px
+	
+}
+
+div.summary{
+	opacity: 0.75;
+    filter: alpha(opacity=75); 
+	 margin-top:10%;
+	 background-color:#FFCC66;
+	 text-align:center;
+	padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+	 
+}
+
+h3{	
+    margin-right:40%;
+	margin-top:3%;
+    font-size:48px
+	
+}
+
+div.preamble{
+	background-color: lightblue;
+	opacity: 0.75;
+    filter: alpha(opacity=75); 
+    margin-top:10%;	
+	margin-right:20%;
+	margin-left:4%;
+	padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+  
+}
+
+div.participation{
+	background-color: #FA8072;
+    opacity: 0.75;
+    filter: alpha(opacity=75); 
+	margin-left:50%;
+	margin-right:4%;
+	margin-top:-70%;
+	padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+
+}
+div.explanation{
+	background-color: #CC99FF;
+	opacity: 0.75;
+    filter: alpha(opacity=75); 
+	margin-top:5%;	
+	margin-right:60%;
+	margin-left:4%;
+	padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+div.benefits{
+	background-color: #FFFF99;
+	opacity: 0.75;
+    filter: alpha(opacity=75); 
+	margin-top:12%;	
+	margin-right:4%;
+	margin-left:4%;
+	padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+div.requirements{
+	background-color: #CCFF99;
+	opacity: 0.75;
+    filter: alpha(opacity=75); 
+	margin-top:5%;	
+	margin-right:4%;
+	margin-left:4%;
+	padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+div.design-selection{
+	background-color: #FFF;
+	opacity: 0.75;
+    filter: alpha(opacity=75);
+	margin-top:5%;	
+	margin-right:55%;
+	margin-left:15%; 
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+
+}
+div.design-archives{
+	background-color: #FFF;
+	opacity: 0.75;
+    filter: alpha(opacity=75);
+	margin-top:-35%;	
+	margin-right:18%;
+	margin-left: 55%; 
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+div.zen-resources{
+	background-color: #FFF;
+	opacity: 0.75;
+    filter: alpha(opacity=75);
+	margin-top:3%;	
+	margin-right:18%;
+	margin-left: 55%; 
+	padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+p{
+	 text-align: left;
+	 font-size:24px
+	
+}
+
+@font-face{
+	font-family: myFirstFont;
+	src:url(Facile%20Sans.ttf);
+}
+div {
+	font-family: myFirstFont;
+	/*margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;*/
+}
+
+
+
